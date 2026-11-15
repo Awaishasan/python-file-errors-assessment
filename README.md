@@ -1,6 +1,6 @@
 # Personal Finance & Student Attendance Management System
 
-Assessment 4 — Python file handling, exception handling, sets and comprehensions.
+Assessment 4 Python file handling, exception handling, sets and comprehensions.
 
 Two small management tools for a training institute: an **Expense Tracker** that records daily operational expenses in a CSV file, and an **Attendance Cleaner** that removes duplicate and messy entries from student attendance records.
 
